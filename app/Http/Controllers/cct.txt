@@ -1,0 +1,7 @@
+student -> class
+
+many to one
+
+class -> student
+
+one to many
